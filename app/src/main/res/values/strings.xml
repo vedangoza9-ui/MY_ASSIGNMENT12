@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Diet Consultant</string>
+    <string name="app_tagline">Your personalized health &amp; nutrition companion</string>
+
+    <!-- Form Labels -->
+    <string name="section_personal_info">Personal Details</string>
+    <string name="label_name">Full Name (Optional)</string>
+    <string name="label_age">Age (years)</string>
+    <string name="label_gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="label_height">Height (cm)</string>
+    <string name="label_weight">Weight (kg)</string>
+
+    <string name="section_preferences">Lifestyle &amp; Goals</string>
+    <string name="label_activity">Activity Level</string>
+    <string name="label_goal">Primary Fitness Goal</string>
+    <string name="label_diet_type">Dietary Preference</string>
+
+    <string name="btn_calculate">Calculate &amp; Get Plan</string>
+    <string name="btn_reset">Reset</string>
+
+    <!-- Results Labels -->
+    <string name="section_results">Your Nutrition Plan</string>
+    <string name="label_bmi">BMI Score</string>
+    <string name="label_calories">Daily Target Calories</string>
+    <string name="label_water">Daily Water Intake</string>
+    <string name="label_macros">Daily Macronutrients</string>
+    <string name="label_meal_plan">Suggested Daily Meals</string>
+    <string name="label_tips">Healthy Habits &amp; Tips</string>
+
+    <!-- Spinner Arrays -->
+    <string-array name="activity_levels">
+        <item>Sedentary (Little or no exercise)</item>
+        <item>Light (Exercise 1-3 days/week)</item>
+        <item>Moderate (Exercise 3-5 days/week)</item>
+        <item>Very Active (Exercise 6-7 days/week)</item>
+    </string-array>
+
+    <string-array name="goals">
+        <item>Weight Loss (Calorie Deficit)</item>
+        <item>Maintain Current Weight</item>
+        <item>Weight / Muscle Gain (Calorie Surplus)</item>
+    </string-array>
+
+    <string-array name="diet_types">
+        <item>Vegetarian</item>
+        <item>Non-Vegetarian</item>
+        <item>Vegan</item>
+    </string-array>
+</resources>

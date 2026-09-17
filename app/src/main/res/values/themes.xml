@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MY_ASSIGNMENT1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorSecondary">@color/teal_accent</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+
+    <style name="Theme.MY_ASSIGNMENT1" parent="Base.Theme.MY_ASSIGNMENT1" />
+</resources>
